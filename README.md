@@ -10,3 +10,7 @@ Things that may come if I can muster up some motivation:
 - changeable settings (board size, difficulty)
 - port to windows
 - cheat modes to see the board mid game
+- simple how-to to install from source
+
+Things that won't come:
+- this will not become a client app
